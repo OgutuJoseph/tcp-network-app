@@ -1,3 +1,4 @@
 # Server items
 /server/node_modules
 /server/README.md
+/server/.env
