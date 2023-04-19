@@ -2,3 +2,7 @@
 /server/node_modules
 /server/README.md
 /server/.env
+
+# Client items
+/client/node_modules
+/client/README.md
